@@ -1,6 +1,6 @@
 ESX = nil
 
-TriggerEvent("esx:getShexmaredObjexmect", function(library) 
+TriggerEvent("esx:getSharedObject", function(library) 
 	ESX = library 
 end)
 
